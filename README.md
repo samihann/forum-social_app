@@ -16,10 +16,10 @@
     <br />
     <br />
     ·
-    <a href="https://samihann.github.io/forum-ui-demo/">View Demo</a>
+    <a href="https://mystifying-morse-8fa640.netlify.app/">View Demo</a>
     ·
     
-    A sample demo for UI is deployed on Github pages. It can be accessed using the link given above.
+    A sample demo for UI is deployed on Netlify. It can be accessed using the link given above.
 
     Please Note: All features are not available as backend in not currently online. 
   </p>
@@ -94,7 +94,9 @@ Major frameworks/libraries used to create the project.
 
 ## Deployment
 
-A sample UI demo is deployed on Github pages. It can be viewed by clicking the link given at the begining of the application.
+A sample UI demo is deployed on Netlify. It can be viewed by clicking the link given at the begining of the application.
+
+https://mystifying-morse-8fa640.netlify.app/
 
 <!-- GETTING STARTED -->
 ## Getting Started
